@@ -1,1 +1,17 @@
+import java.util.Scanner;
 
+public class ArithmeticProgressionMember {
+    public static void main(String[] args) {
+        int a, d, n;
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.nextInt();
+        d = scanner.nextInt();
+        n = scanner.nextInt();
+        System.out.print(sum(a,d,n));
+    }
+    static int sum(int a, int d, int n){
+        int sum = 0;
+        sum = a + (n-1)*d;
+        return sum;
+    }
+}
