@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class Hexadecimal {
+    public static void main(String[] args) {
+        int a;
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.nextInt();
+        String convert = Integer.toHexString(a);
+        System.out.print(convert);
+    }
+}
