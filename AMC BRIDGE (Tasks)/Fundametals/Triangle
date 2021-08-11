@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Triangle {
+    public static void main(String[] args) {
+        double a, b, c;
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.nextDouble();
+        b = scanner.nextDouble();
+        c = scanner.nextDouble();
+        double perimetr, area, R;
+        perimetr = a + b + c;
+        double half_per;
+        half_per = (a+b+c)/2;
+        area = half_per*((half_per-a)*(half_per-b)*(half_per-c));
+        double S = Math.sqrt(area);
+        R = S/half_per;
+        System.out.print(perimetr + " " + S + " " + R);
+    }
+}
