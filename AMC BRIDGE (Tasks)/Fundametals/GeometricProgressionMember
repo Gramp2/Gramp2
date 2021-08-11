@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class GeometricProgressionMember {
+    public static void main(String[] args) {
+        double a;
+        double q;
+        int n;
+        double b;
+        Scanner scanner = new Scanner(System.in);
+        a = scanner.nextDouble();
+        q = scanner.nextDouble();
+        n = scanner.nextInt();
+        b = a*Math.pow(q,n-1);
+        System.out.print(b);
+    }
+}
