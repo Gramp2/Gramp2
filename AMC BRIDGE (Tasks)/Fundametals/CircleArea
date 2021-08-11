@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class CircleArea {
+    public static void main(String[] args) {
+        double l;
+        double S = 0;
+        Scanner scanner = new Scanner(System.in);
+        l = scanner.nextDouble();
+        cicrleArea(l,S);
+    }
+    static void cicrleArea(double l, double S){
+        S = (l*l)/(4*Math.PI);
+        double scale = Math.pow(10,9);
+        double result = Math.ceil(S*scale)/scale;
+        System.out.print(result);
+    }
+}
