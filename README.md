@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gramp2 (Stanislav Neledva).
 - 👀 I’m interested in JAVA, QA, Cloud Engineering, 3d modeling.
-- 🌱 I’m currently learning JAVA and QA.
+- 🌱 I’m currently learning JAVA.
 - 📫 How to reach me:
                       1. Telegram: https://t.me/GramP2;
                       2. Instagram: @gramp2_angel
