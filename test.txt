@@ -2,4 +2,5 @@ int main()
 {
 	//by Stanislav
 	cout<<"Hello world";
+//1
 }
