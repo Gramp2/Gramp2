@@ -1,4 +1,5 @@
 int main()
 {
+	//by Stanislav
 	cout<<"Hello world";
 }
