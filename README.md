@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA.
 - 📫 How to reach me:
                       1. Telegram: https://t.me/GramP2;
-                      2. Instagram: @gramp2_angel
+                      2. Instagram: @_gramp2
                       3. Mail: mr.neledva@gmail.com
 
 <!---
