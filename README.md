@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA, QA, Cloud Engineering, 3d modeling.
 - 🌱 I’m currently learning JAVA.
 - 📫 How to reach me:
-                      1. Telegram: https://t.me/GramP2;
+                      1. Telegram: https://t.me/stas_neledva;
                       2. Instagram: @stas.nldva
                       3. Mail: mr.neledva@gmail.com
 
